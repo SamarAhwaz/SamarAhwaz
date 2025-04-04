@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samarahwaz04@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SamarAhwaz/Added-My-Resume/blob/f0c02cc9897c8cd6ed15f8336ee1accd34492be6/Samar%20Resume%20.pdf.pdf](https://github.com/SamarAhwaz/Added-My-Resume/blob/f0c02cc9897c8cd6ed15f8336ee1accd34492be6/Samar%20Resume%20.pdf.pdf)
+- 📄 Know about my experiences [Samar's Resume .pdf](Samar's Resume .pdf)
 
 - ⚡ Fun fact **I love solving complex challenges, whether it's coding a web application or experimenting with quantum algorithms. I'm always looking for new ways to combine my technical skills with cutting-edge technologies!**
 
